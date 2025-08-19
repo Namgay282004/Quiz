@@ -227,4 +227,4 @@ The following test cases can be used to validate the application functionality:
 - **Expected**: Final score matches expected calculation (correct answers / total questions)
 
 
-## change
+<!-- hellp -->
